@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "nodejs demo app",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "babel-node ./app.js",
+    "test": "jest",
+    "build": "echo test completed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodez-kubernetes/nodejs-demo-app.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "express",
+    "babel"
+  ],
+  "author": "Woodez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woodez-kubernetes/nodejs-demo-app/issues"
+  },
+  "homepage": "https://github.com/woodez-kubernetes/nodejs-demo-app#readme"
+}
